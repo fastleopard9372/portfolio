@@ -760,7 +760,7 @@ p {
 }
 
 .item-card > div > picture::before {
-  content: "Java | Flutter | ReactNative";
+  content: "Front-end + Back-end";
   display: flex;
   flex-direction: column;
   align-items: flex-end;
@@ -790,7 +790,7 @@ p {
 }
 
 .portfolio-item:nth-child(2) > .item-card > div > picture::before {
-  content: "Front-end + Back-end";
+  content: "Java | Flutter | ReactNative";
 }
 
 .portfolio-item:nth-child(3) > .item-card > div > picture::before {
